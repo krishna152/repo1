@@ -1,3 +1,5 @@
+properties([[$class: 'BuildConfigProjectProperty', name: '', namespace: '', resourceVersion: '', uid: ''], [$class: 'JobRestrictionProperty']])
+
 pipeline {
     agent any
 
